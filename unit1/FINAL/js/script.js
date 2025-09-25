@@ -1,4 +1,5 @@
 
+
   const button = document.getElementById('searchButton');
   const input = document.getElementById('userInput');
 
